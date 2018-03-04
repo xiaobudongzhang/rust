@@ -1,9 +1,10 @@
 fn main(){
 
-    let refer = dangle();
+   println!("hello")
+    //let refer = dangle();
 }
 
-fn dangle()->String{
+/*fn dangle()->String{
    let s = String::from("hello");
    s
-}
+}*/
